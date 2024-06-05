@@ -231,6 +231,7 @@ class _WiFiConnectScreenState extends State<WiFiConnectScreen> {
                 ),
               ),
               const SizedBox(height: 8),
+
               const Text(
                 '1. Verbinde das ESP Modul mit dem Strom \n2. Verbinde dein Handy mit ESP_AP Password: 12345678 \n3. Öffne die App und gebe die SSID und das Passwort deines Heimwlans ein \n4. Klicke auf Connect',
                 style: TextStyle(
